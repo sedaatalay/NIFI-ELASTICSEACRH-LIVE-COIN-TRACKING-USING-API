@@ -92,7 +92,7 @@ http://ec2-52-29-193-171.eu-central-1.compute.amazonaws.com:9200
 
  
  
-## Open KIBANA WEBUI.  
+## Open KIBANA WEBUI
 
  
 ### 1- Go to the "Management" panel. Choose the "Stack Management".
