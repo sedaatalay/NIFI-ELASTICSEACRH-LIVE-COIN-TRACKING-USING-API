@@ -47,9 +47,9 @@ https://api.btcturk.com/api/v2/ticker?pairSymbol=BTCUSDT
       "denominatorSymbol": "denominatorSymbol",
       "numeratorSymbol": "numeratorSymbol",
       "order": "order"
-	  }
+      }
+     }
    }
-  }
  }
 ]
 ```
