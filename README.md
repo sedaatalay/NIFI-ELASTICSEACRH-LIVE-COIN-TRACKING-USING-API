@@ -138,7 +138,7 @@ http://ec2-52-29-193-171.eu-central-1.compute.amazonaws.com:9200
  
 ### 5- Now let's go to our dashboard.
 #### I choose the metric type and choose my index pattern.
-<img width="246" alt="Ekran Resmi 2022-04-03 16 31 16" src="https://user-images.githubusercontent.com/91700155/161441455-bff76d11-e364-4742-9271-973cba104530.png">
+<img width="246" alt="Ekran Resmi 2022-04-03 16 31 16" src="https://user-images.githubusercontent.com/91700155/161441855-c223da5d-25b8-4191-8b17-5b54a8f6358b.png">
 <img width="1410" alt="Ekran Resmi 2022-04-03 16 31 58" src="https://user-images.githubusercontent.com/91700155/161441608-f95e57a2-0b57-4b07-9d62-cf27fa9046f9.png">
 
  
