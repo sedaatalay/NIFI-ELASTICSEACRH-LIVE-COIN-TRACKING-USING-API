@@ -21,7 +21,9 @@ https://api.btcturk.com/api/v2/ticker?pairSymbol=BTCUSDT
  
 ### 3- Configure "JoltTransformJSON" processor.
 <img width="775" alt="Ekran Resmi 2022-04-03 16 12 16" src="https://user-images.githubusercontent.com/91700155/161440033-3cc35772-1c32-49b8-9b03-54a13660b219.png">
+
 ##### For Example:
+
 ```console
 [
     {
