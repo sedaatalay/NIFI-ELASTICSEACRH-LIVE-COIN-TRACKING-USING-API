@@ -61,7 +61,7 @@ https://api.btcturk.com/api/v2/ticker?pairSymbol=BTCUSDT
 <img width="744" alt="Ekran Resmi 2022-04-03 16 11 31" src="https://user-images.githubusercontent.com/91700155/161440123-bb58920d-8615-4db7-99bd-59e0b95dd6e1.png">
 
 
-## Step first is done!
+## First step is done!
 <img width="332" alt="Ekran Resmi 2022-04-03 16 11 41" src="https://user-images.githubusercontent.com/91700155/161440154-ba03a748-a1bb-490f-a8a1-4a8cb9cdd2d9.png">
 
 
